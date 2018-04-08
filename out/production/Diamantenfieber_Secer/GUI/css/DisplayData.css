@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07.04.2018, 16:20:31
+    Author     : Secer
+*/
+
+.upperLabel {
+    -fx-font-family: 'Century Gothic';
+    -fx-font-size: 20px;
+}
+
+.lowerLabel {
+    -fx-font-family: 'Century Gothic';
+    -fx-font-size: 14px;
+}
+
